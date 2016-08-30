@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="CHILE",TVN HD
 http://edge-81-cl.edge.mdstrm.com/live/smil:8455f0b280ff7db16908c63074a4aa96/playlist_b1500.m3u8
+#EXTINF:-1, tvg-logo="HqKYZvm.png" group-title="CHILE", Canal 13 HD
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
