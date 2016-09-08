@@ -5,6 +5,7 @@
 # MEGA HD
 # CHV HD
 # Canal 13 HD
+# CinemaTvPlay
 # --- Musica ---
 # VH1 HD
 
@@ -18,6 +19,8 @@ http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Canal13Chile_Vectorial.svg/180px-Canal13Chile_Vectorial.svg.png" group-title="CHILE", Canal 13 HD
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+#EXTINF:-1 tvg-logo="http://cinematvplay.com/gallery_gen/a51a2ad6263d54ca97b57fe3c3c5516c_210x130.png" group-title="CHILE", CinemaTvPlay
+http://servicioamerica.net:1935/cinematvplays/cinematvplays/chunklist_w1995939705.m3u8?token=yfU+kLqLqfZ31Yx5RgwFWADDQsAtzsn0JyAjDqCTXxRwvMGtx37LIVQo4lZqfP3TwZ6g0fs9MPq379+5bsFQ2fbTCNgZfX+5b3kujpkuCEOWlgC8Va2VBSkeUQLrGWnubuXDVIfwcmiXQA9Bp%2F%2FCePR8oSp3rXvGlAZnJRHEhps%3D%7CJu5jp+owWgLfUUCUo40DFq11rtqgA03rE0tVrZWyNss%3D.m3u8
 
 #EXTINF:-1 tvg-logo="fKByJrs.png" group-title="Musica", -[COLOR red]--- Musica ---[/COLOR]-
 http://127.0.0.1
