@@ -8,7 +8,7 @@
 # CinemaTvPlay
 # --- Musica ---
 # VH1 HD
-
+# --- Partidos ---
 #EXTINF:-1 tvg-logo="fKByJrs.png" group-title="CHILE", -[COLOR red]--- Canales Chilenos ---[/COLOR]-
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="CHILE",TVN HD
@@ -26,3 +26,8 @@ http://servicioamerica.net:1935/cinematvplays/cinematvplays/chunklist_w199593970
 http://127.0.0.1
 #EXTINF:-1 tvg-logo=”http://puu.sh/maO5i/8473676ac5.png” group-title=”Musica”, VH1 HD
 http://live.tvplayerlatino.com/lista_remota/src1/eriD9.m3u8
+
+
+#EXTINF:-1 tvg-logo="fKByJrs.png" group-title="Musica", -[COLOR red]--- Musica ---[/COLOR]-
+http://127.0.0.1
+#EXTINF: -1 group-title="Partidos" , YOUTUBE https://youtu.be/umXH4B6PsdE
