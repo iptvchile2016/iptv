@@ -11,7 +11,7 @@
 # --- Partidos ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg" group-title="CHILE", -[COLOR red]--- Canales Chilenos ---[/COLOR]-
 http://127.0.0.1
-#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png" group-title="CHILE",TVN HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Televisi%C3%B3n_Nacional_de_Chile_2016.png" group-title="CHILE",TVN HD
 http://edge-81-cl.edge.mdstrm.com/live/smil:8455f0b280ff7db16908c63074a4aa96/playlist_b1500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="CHILE",MEGA HD
 http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
