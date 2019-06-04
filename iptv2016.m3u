@@ -27,6 +27,8 @@ http://127.0.0.1
 #EXTINF:-1 tvg-logo=”http://puu.sh/maO5i/8473676ac5.png” group-title=”Musica”, VH1 HD
 http://live.tvplayerlatino.com/lista_remota/src1/eriD9.m3u8
 
+#EXTINF:-1 , Temporada1-Ep01 
+https://ph2drd.oloadcdn.net/dl/l/Zbf4RSBU8fEG6y82/g3OYA_L2Lgk/G00D+D0CT0R+LAT+T01XE01.mkv.mp4?mime=true
 
 #EXTINF:-1 tvg-logo="fKByJrs.png" group-title="Musica", -[COLOR red]--- Musica ---[/COLOR]-
 http://127.0.0.1
